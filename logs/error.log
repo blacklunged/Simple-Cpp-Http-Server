@@ -1,0 +1,6 @@
+[2026-01-15 11:04:38] ERROR Failed to start server: bind failed: Permission denied
+[2026-01-15 11:04:38] ERROR Fatal error: bind failed: Permission denied
+[2026-01-20 11:03:39] ERROR Empty request or connection closed while receiving
+[2026-01-20 11:03:39] ERROR Error handling client: empty request or connection closed
+[2026-02-20 12:55:24] ERROR Empty request or connection closed while receiving
+[2026-02-20 12:55:24] ERROR Error handling client: empty request or connection closed
