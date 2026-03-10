@@ -19999,3 +19999,32 @@
 [2026-03-10 13:29:17] INFO Served file (GET): ../www/index.html size=76 mime=text/html
 [2026-03-10 13:29:17] INFO Sent response: 200 OK for path /
 [2026-03-10 13:29:17] INFO Client disconnected: 127.0.0.1:56068 in thread 125565730289344
+[2026-03-10 13:48:20] INFO Signal received, shutting down...
+[2026-03-10 13:48:20] INFO Server stopping...
+[2026-03-10 13:48:20] INFO Server socket closed
+[2026-03-10 13:48:20] INFO Stopping ThreadPool...
+[2026-03-10 13:48:20] INFO Worker thread terminated
+[2026-03-10 13:48:20] INFO Worker thread terminated
+[2026-03-10 13:48:20] INFO Worker thread terminated
+[2026-03-10 13:48:20] INFO Worker thread terminated
+[2026-03-10 13:48:20] INFO ThreadPool stopped. Total threads joined: 4
+[2026-03-10 13:48:20] INFO Server stopped successfully
+[2026-03-10 13:48:20] INFO Server instance destroyed
+[2026-03-10 13:49:07] INFO Application started
+[2026-03-10 13:49:07] INFO Using root directory: ../www
+[2026-03-10 13:49:07] INFO ThreadPool created with 4 worker threads
+[2026-03-10 13:49:07] INFO Server instance created: root_dir=../www port=8080 threads=4
+[2026-03-10 13:49:07] INFO Server starting...
+[2026-03-10 13:49:07] INFO Socket bound to port 8080
+[2026-03-10 13:49:07] INFO Server started successfully! Listening on http://0.0.0.0:8080 with root directory: ../www
+[2026-03-10 13:49:09] INFO Signal received, shutting down...
+[2026-03-10 13:49:09] INFO Server stopping...
+[2026-03-10 13:49:09] INFO Server socket closed
+[2026-03-10 13:49:09] INFO Stopping ThreadPool...
+[2026-03-10 13:49:09] INFO Worker thread terminated
+[2026-03-10 13:49:09] INFO Worker thread terminated
+[2026-03-10 13:49:09] INFO Worker thread terminated
+[2026-03-10 13:49:09] INFO Worker thread terminated
+[2026-03-10 13:49:09] INFO ThreadPool stopped. Total threads joined: 4
+[2026-03-10 13:49:09] INFO Server stopped successfully
+[2026-03-10 13:49:09] INFO Server instance destroyed
