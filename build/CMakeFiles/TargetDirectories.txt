@@ -1,3 +1,0 @@
-/home/ubuntu/project/http_server/build/CMakeFiles/http_server.dir
-/home/ubuntu/project/http_server/build/CMakeFiles/edit_cache.dir
-/home/ubuntu/project/http_server/build/CMakeFiles/rebuild_cache.dir
